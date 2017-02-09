@@ -8,6 +8,7 @@ using namespace std;
 int main() {
 
 	cout << "Hello Marc" << endl;
+	cout << "Hello Davis" << endl;
 
 	_getch();
 	return 0;
